@@ -1,0 +1,18 @@
+.btn-branco {
+	color: white;
+}
+
+.btn-branco:hover {
+	color: #dbdbdb;
+}
+
+#sair{
+	position: relative;
+	top: 16px;
+}
+
+.btn-Itens{
+	color: rgb(19, 0, 237);
+}
+
+

@@ -1,0 +1,7 @@
+.btn-branco {
+	color: white;
+}
+
+.btn-branco:hover {
+	color: #dbdbdb;
+}
